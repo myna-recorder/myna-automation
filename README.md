@@ -24,15 +24,15 @@ It finds things on screen by picture, so it keeps working when a window moves.
 
 | | |
 |---|---|
-| 🎬 **Record and replay** | Keyboard and mouse, with your original timing. Replay from 0.25× to 10×, or on repeat. |
-| 📝 **Edit as a readable script** | The same macro as an editable step list or as text. Loops, conditions, variables and functions. |
-| 🎯 **Image anchors** | Wait for a picture on screen, or click it. The macro survives a moved window, a new resolution, another machine. |
-| 🔍 **Read text from the screen** | Pull an order number, a total or a filename into a variable. Runs on your computer, costs nothing. |
-| 🤖 **AI assistant** | Describe the macro in plain English and get a script back. Nothing reaches your editor until you approve it. |
-| 🦾 **Agent mode** | Type a goal. It looks at the screen, acts, checks its own work, and stops when the job is done. Computer use, on your own desktop. |
-| 👁️ **Screen watchdog** | Monitors watch for a picture, or ask the AI a question, while a macro runs or on their own. They pop up, message Telegram or Discord, or stop the run. |
-| 📦 **Export as a program** | Write a macro out as one .exe that runs on any Windows PC, with its image crops and the local text readers built in. |
-| ⌨️ **Global shortcuts** | Start, pause and stop from anywhere. Every key is reassignable, and the stop key always works. |
+| **Record and replay** | Keyboard and mouse, with your original timing. Replay from 0.25× to 10×, or on repeat. |
+| **Edit as a readable script** | The same macro as an editable step list or as text. Loops, conditions, variables and functions. |
+| **Image anchors** | Wait for a picture on screen, or click it. The macro survives a moved window, a new resolution, another machine. |
+| **Read text from the screen** | Pull an order number, a total or a filename into a variable. Runs on your computer, costs nothing. |
+| **AI assistant** | Describe the macro in plain English and get a script back. Nothing reaches your editor until you approve it. |
+| **Agent mode** | Type a goal. It looks at the screen, acts, checks its own work, and stops when the job is done. Computer use, on your own desktop. |
+| **Screen watchdog** | Monitors watch for a picture, or ask the AI a question, while a macro runs or on their own. They pop up, message Telegram or Discord, or stop the run. |
+| **Export as a program** | Write a macro out as one .exe that runs on any Windows PC, with its image crops and the local text readers built in. |
+| **Global shortcuts** | Start, pause and stop from anywhere. Every key is reassignable, and the stop key always works. |
 
 ## Getting started
 
@@ -62,10 +62,10 @@ Full details on the **[pricing page](https://mynarecorder.com/pricing)**.
 
 ## Documentation and help
 
-- 📖 **[User manual](https://mynarecorder.com/manual)** — recording, playback, editing, image anchors, screen text, the assistant, Agent mode, monitors and settings
-- 💬 **[Discord](https://discord.gg/zAJ7HJHgV)** — help with macros, bug reports and announcements
-- 🐞 **[Issues](../../issues)** — bug reports and feature requests
-- ✉️ **support@mynarecorder.com**
+- **[User manual](https://mynarecorder.com/manual)** — recording, playback, editing, image anchors, screen text, the assistant, Agent mode, monitors and settings
+- **[Discord](https://discord.gg/zAJ7HJHgV)** — help with macros, bug reports and announcements
+- **[Issues](../../issues)** — bug reports and feature requests
+- **support@mynarecorder.com**
 
 ## About this repository
 
