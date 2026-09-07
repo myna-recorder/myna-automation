@@ -46,10 +46,10 @@ Every new account gets a **7-day trial of every paid feature**, with 100 AI cred
 ## Plans
 
 | Plan | Price | What you get |
-|---|---|---|
+|:--|:--|:--|
 | **Free** | $0, forever | Recording, editing, replay and image anchors. No card, no expiry. |
-| **Basic** | $10 / month | Everything in Free, plus the screen watchdog and exporting a macro as a program. |
-| **Pro** | $15 / month | Everything in Basic, plus the AI assistant, Agent mode, reading text from the screen, and 3,000 AI credits a month. |
+| **Basic** | $10/month | Everything in Free, plus the screen watchdog and exporting a macro as a program. |
+| **Pro** | $15/month | Everything in Basic, plus the AI assistant, Agent mode, reading text from the screen, and 3,000 AI credits a month. |
 
 Credit packs are available on top of a plan and never expire.
 Full details on the **[pricing page](https://mynarecorder.com/pricing)**.
