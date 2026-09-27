@@ -73,11 +73,13 @@ Windows may show "Windows protected your PC" the first time you run it. Choose *
 
 ## Plans
 
+> **Launch offer: 50% off your first month.** Applied automatically at checkout. From the second month you pay the normal price shown below. Cancel any time.
+
 | Plan | Price | What you get |
 |:--|:--|:--|
 | **Free** | $0, forever | Recording, editing, replay, image anchors, and the auto clicker (one click or key at a set rate, with a count, a time limit and hold mode). No card, no expiry, and no account needed. |
-| **Basic** | $10/month | Everything in Free, plus the screen watchdog, Telegram and Discord alerts, export as a program, the Scheduler, Timed Actions, and the clicker's humanized clicks, jitter, scatter, sequences of points and wander box. |
-| **Pro** | $15/month | Everything in Basic, plus the AI assistant, reading text from the screen, `ask_ai`, the GPT and Claude models, and 3,000 AI credits a month. |
+| **Basic** | ~~$10~~ **$5** the first month, then $10/month | Everything in Free, plus the screen watchdog, Telegram and Discord alerts, export as a program, the Scheduler, Timed Actions, and the clicker's humanized clicks, jitter, scatter, sequences of points and wander box. |
+| **Pro** | ~~$15~~ **$7.50** the first month, then $15/month | Everything in Basic, plus the AI assistant, reading text from the screen, `ask_ai`, the GPT and Claude models, and 3,000 AI credits a month. |
 
 Every new account starts with a 7-day trial of the paid features and 100 AI credits, no card. The Scheduler and the GPT and Claude models need a paid plan.
 Credit packs are available on top of a plan and never expire.
